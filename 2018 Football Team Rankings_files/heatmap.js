@@ -1,0 +1,1 @@
+var heatmap = true;

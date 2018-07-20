@@ -1,0 +1,1 @@
+define(["jquery","libs/debug","version!fly/components/base","version!fly/libs/underscore","libs/backbone.marionette"],function(e,n,i,a,o){n=n.init("setup");n.enable();n.log("setup");if(typeof window.saagApp=="undefined"){window.saagApp=new o.Application}if(typeof window.saagData=="undefined"){window.saagData={}}return null});

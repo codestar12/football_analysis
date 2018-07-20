@@ -1,0 +1,1 @@
+define(["managers/storage"],function(e){var a=e({options:{},saag:{},scorecard:{},masterslive:{},eventUpdateCallback:function(e){debug.log("liveScoring callback: UPDATE",e)},eventStateCallback:function(e){debug.log("liveScoring callback: SETSTATE",e)}},"liveScoring");return a});

@@ -1,0 +1,2 @@
+
+var $TeamRanking={tableRowColorizer:function(){var classes=['blue','lightblue'];var classes2=['grey',''];$('.teamranking_tbl > tbody > tr:not(.ad_itm)').each(function(i){if(i<10){$(this).removeClass('blue lightblue grey').addClass(classes[i%2]);}else{$(this).removeClass('blue lightblue grey').addClass(classes2[i%2]);}});}};$(document).ready(function(){$TeamRanking.tableRowColorizer();});

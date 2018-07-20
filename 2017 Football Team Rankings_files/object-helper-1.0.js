@@ -1,0 +1,1 @@
+define(["jquery"],function(n){return{deepFind:function(n,e){if(!n||!e){return null}var r=e.split("."),t=r.length;for(i=0;i<t;i++){if(n.hasOwnProperty(r[i])){n=n[r[i]]}else{return null}}return n}}});

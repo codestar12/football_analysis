@@ -1,0 +1,1 @@
+define(["version!fly/managers/debug"],function(t){var e=t.init;t.init=function(){var n=e.apply(t,arguments);var r=n.log;n.log=function(){try{return r.apply(n,arguments)}catch(n){console.warn(n)}return this};return n};return t});

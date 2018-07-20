@@ -1,0 +1,1 @@
+define(["jquery","libs/debug"],function(a,g){debug=g.init("page-vars");debug.log("page-vars");debug.log("SHOW utag_data");debug.log(window.utag_data);window.SportsPageVars.tracking.data=window.utag_data;return window.SportsPageVars});
