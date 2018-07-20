@@ -1,0 +1,1 @@
+## This github is supporting season 1 of Fixin' Sports on realignment and fairness
