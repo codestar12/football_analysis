@@ -1,0 +1,65 @@
+Boston College	
+Baylor	
+Illinois	
+Arizona	
+Alabama
+Clemson	
+Iowa State	
+Indiana	
+Arizona State	
+Arkansas
+Duke	
+Kansas	
+Iowa	
+California	
+Auburn
+Florida State	
+Kansas State	
+Maryland	
+UCLA	
+Florida
+Georgia Tech	
+Oklahoma	
+Michigan	
+Colorado	
+Georgia
+Louisville	
+Oklahoma State	
+Michigan State	
+Oregon	
+Kentucky
+Miami (FL)	
+TCU	
+Minnesota	
+Oregon State	
+LSU
+North Carolina	
+Texas	
+Nebraska	
+USC	
+Mississippi
+North Carolina State	
+Texas Tech	
+Northwestern	
+Stanford	
+Mississippi State
+Pittsburgh	
+West Virginia	
+Ohio State	
+Utah	
+Missouri
+Syracuse		
+Penn State	
+Washington	
+South Carolina
+Virginia		
+Purdue	
+Washington State	
+Tennessee
+Virginia Tech		
+Rutgers		
+Texas A&M
+Wake Forest		
+Wisconsin		
+Vanderbilt
+Notre Dame	
