@@ -1,1 +1,1 @@
-## This github is supporting season 1 of Fixin' Sports on realignment and fairness
+## This github is supports season 1 of Fixin' Sports on college football confrence realignment and fairness
